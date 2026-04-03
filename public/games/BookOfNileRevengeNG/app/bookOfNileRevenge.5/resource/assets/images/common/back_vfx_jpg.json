@@ -1,0 +1,62 @@
+{"frames": {
+
+"reflection.jpg":
+{
+	"frame": {"x":1539,"y":192,"w":94,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":92},
+	"sourceSize": {"w":94,"h":92}
+},
+"reflection.png":
+{
+	"frame": {"x":1635,"y":192,"w":94,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":92},
+	"sourceSize": {"w":94,"h":92}
+},
+"stair_part.png":
+{
+	"frame": {"x":1,"y":380,"w":998,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":998,"h":76},
+	"sourceSize": {"w":998,"h":76}
+},
+"stair_part2.png":
+{
+	"frame": {"x":1001,"y":380,"w":998,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":998,"h":76},
+	"sourceSize": {"w":998,"h":76}
+},
+"wave_ADD.png":
+{
+	"frame": {"x":1,"y":192,"w":1536,"h":186},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1536,"h":186},
+	"sourceSize": {"w":1536,"h":186}
+},
+"wave_bg_f3.png":
+{
+	"frame": {"x":1,"y":1,"w":1997,"h":189},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1997,"h":189},
+	"sourceSize": {"w":1997,"h":189}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "back_vfx_jpg.jpg",
+	"format": "RGB888",
+	"size": {"w":2000,"h":457},
+	"scale": "0.8",
+	"smartupdate": "$TexturePacker:SmartUpdate:61417419058bec9b85cf852685a155fe:1696b24ffbc4c45ff625c4f1cc2b37d6:6a7018b0ac677bf4e7706c110cc88f85$"
+}
+}

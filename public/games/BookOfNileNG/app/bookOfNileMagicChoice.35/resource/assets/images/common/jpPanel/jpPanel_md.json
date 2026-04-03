@@ -1,0 +1,60 @@
+{"frames": {
+
+"jp-back-fade.png":
+{
+	"frame": {"x":1,"y":1,"w":12,"h":57},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":57},
+	"sourceSize": {"w":12,"h":57}
+},
+"jp-blue-diamond.png":
+{
+	"frame": {"x":1,"y":15,"w":30,"h":31},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":31},
+	"sourceSize": {"w":30,"h":31}
+},
+"jp-orange-diamond.png":
+{
+	"frame": {"x":1,"y":47,"w":30,"h":31},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":31},
+	"sourceSize": {"w":30,"h":31}
+},
+"jp-red-diamond.png":
+{
+	"frame": {"x":1,"y":79,"w":30,"h":31},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":31},
+	"sourceSize": {"w":30,"h":31}
+},
+"jp-title.png":
+{
+	"frame": {"x":34,"y":15,"w":150,"h":27},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":27},
+	"sourceSize": {"w":150,"h":27}
+},
+"jp-violet-diamond.png":
+{
+	"frame": {"x":1,"y":111,"w":30,"h":31},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":31},
+	"sourceSize": {"w":30,"h":31}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "jpPanel_md.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":256},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:db5aedc962fa98091df93f581933927d:28c264caa933531ecf0f6b0c57776461:1ba328680915e3cfe8cec09b4704ac29$"
+}
+}

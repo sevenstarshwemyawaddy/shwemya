@@ -1,0 +1,20 @@
+{"frames": {
+
+"introScreenBg.jpg":
+{
+	"frame": {"x":1,"y":1,"w":2018,"h":866},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2018,"h":866},
+	"sourceSize": {"w":2018,"h":866}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "intro.jpg",
+	"format": "RGB565",
+	"size": {"w":2020,"h":868},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f57e64a9c2c32a981a57528510e0ca59:32e6191ee314c5204ff85ee8a19d7192:f547e0845a11e676d10df4f91559ae81$"
+}
+}

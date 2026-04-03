@@ -1,0 +1,46 @@
+{"frames": {
+
+"black_bg.png":
+{
+	"frame": {"x":4,"y":1011,"w":1400,"h":780},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1400,"h":780},
+	"sourceSize": {"w":1400,"h":780}
+},
+"Frame_glow.png":
+{
+	"frame": {"x":4,"y":4,"w":1627,"h":999},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1627,"h":999},
+	"sourceSize": {"w":1627,"h":999}
+},
+"light_up_3.png":
+{
+	"frame": {"x":1639,"y":4,"w":1731,"h":384},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1731,"h":384},
+	"sourceSize": {"w":1731,"h":384}
+},
+"mask.png":
+{
+	"frame": {"x":1412,"y":1743,"w":4,"h":4},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":4,"h":4},
+	"sourceSize": {"w":4,"h":4}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fs-popup_jpeg0.jpg",
+	"format": "RGB888",
+	"size": {"w":2027,"h":1795},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d3355c5799394f5fb6d0480b906bb2c0:740611f8e3c1ccc29f7faaf4a25e034a:b263af9bf654485f3fb63c18a3cf3f0e$"
+}
+}

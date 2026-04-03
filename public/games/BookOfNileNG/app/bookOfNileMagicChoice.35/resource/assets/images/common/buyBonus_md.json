@@ -1,0 +1,28 @@
+{"frames": {
+
+"buyBonus.png":
+{
+	"frame": {"x":1,"y":1,"w":130,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":181},
+	"sourceSize": {"w":130,"h":181}
+},
+"buyBonus_disabled.png":
+{
+	"frame": {"x":133,"y":1,"w":130,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":181},
+	"sourceSize": {"w":130,"h":181}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "buyBonus_md.png",
+	"format": "RGBA8888",
+	"size": {"w":264,"h":183},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:a6474282e74f1cc7c8027a3e7661ccc6:31eb4b68b9735e3f45eed8922f85acb0:e226ed81fad24e73d330bf0aa037aef8$"
+}
+}

@@ -1,0 +1,119 @@
+<style>
+    @font-face {
+        font-family: "Futura";
+        src: url("{{{font_medium}}}") format("opentype");
+        font-display: block;
+    }
+    @font-face {
+        font-family: "Futura";
+        font-weight: bold;
+        src: url("{{{font_heavy}}}") format("opentype");
+        font-display: block;
+    }
+
+    .statusbar-overlay {
+        position: absolute;
+        display: -ms-flexbox;
+        display: flex;
+        height: 100%;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        margin-bottom: auto;
+        font-family: "Futura";
+    }
+
+    .statusbar-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        cursor: default;
+        background-color: rgba(16, 0, 33, 0.76);
+        height: 100%;
+        color: #fff;
+        text-align: center;
+        border-radius: 0px;
+        width: 100%;
+    }
+
+    .statusbar-leftText {
+        width: 35%;
+        text-align: left;
+        margin-top: 2px;
+        margin-left: 5px;
+        font-size: 1.6vh;
+    color: {{statusbar_Elements_color}};
+    }
+
+    .statusbar-centerText {
+        width: 50%;
+        text-align: center;
+        font-size: 1.6vh;
+        margin-top: 2px;
+    color: {{statusbar_Elements_color}};
+    }
+
+    .statusbar-rightText {
+        width: 35%;
+        text-align: right;
+        margin-top: 2px;
+        margin-right: 5px;
+        font-size: 1.6vh;
+    color: {{statusbar_Elements_color}};
+    }
+
+    .statusbar-width-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        cursor: default;
+        height: 100%;
+        color: #fff;
+        text-align: center;
+        border-radius: 0px;
+        width: 56vh;
+        max-width: 100%;
+    }
+
+    @media (orientation: landscape){
+        .statusbar-leftText {
+            font-size: 1.7vw;
+            margin-top: 0px;
+        }
+
+        .statusbar-centerText {
+            font-size: 1.7vw;
+            margin-top: 0px;
+        }
+
+        .statusbar-rightText {
+            font-size: 1.7vw;
+            margin-top: 0px;
+        }
+
+        .statusbar-width-container {
+            width: 100%;
+        }
+    }
+
+
+</style>
+
+<div class="statusbar-overlay">
+    <div class="statusbar-container">
+        <div class="statusbar-width-container">
+            <div id="statusbarLeftText" class="statusbar-leftText">{{statusbar_Left_text}}</div>
+            <div class="statusbar-centerText">Balance</div>
+            <div id="statusbarRightText" class="statusbar-rightText">Time</div>
+        </div>
+    </div>
+</div>

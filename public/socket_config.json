@@ -1,0 +1,13 @@
+{
+
+"port":"22154/slots",
+
+"host":"mmcrt.com",
+"prefix":"https://",
+
+"host_ws":"mmcrt.com",
+"prefix_ws":"wss://",
+
+"ssl":true
+
+}

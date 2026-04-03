@@ -1,0 +1,82 @@
+{
+    "alpha": {
+        "list": [
+            {
+                "time": 0,
+                "value": 1
+            },
+            {
+                "time": 1,
+                "value": 1
+            }
+        ]
+    },
+    "scale": {
+        "list": [
+            {
+                "time": 0,
+                "value": 1
+            },
+            {
+                "time": 1,
+                "value": 1
+            }
+        ],
+        "minimumScaleMultiplier": 0.5988023952095809
+    },
+    "speed": {
+        "list": [
+            {
+                "time": 0,
+                "value": 1000
+            },
+            {
+                "time": 1,
+                "value": 600
+            }
+        ],
+        "minimumSpeedMultiplier": 2.2222222222222223
+    },
+    "color": {
+        "list": [
+            {
+                "time": 0,
+                "value": "#ffffff"
+            },
+            {
+                "time": 1,
+                "value": "#f9fcc0"
+            }
+        ]
+    },
+    "rotationSpeed": {
+        "min": 50,
+		"max": 70
+    },
+    "startRotation": {
+        "min": 0,
+        "max": 180
+    },
+    "lifetime": {
+        "min": 2,
+        "max": 2
+    },
+    "pos": {
+        "x": 0,
+        "y": 0
+    },
+    
+    "noRotation": true,
+    "rotationAcceleration": 45,
+    "addAtBack": false,
+    "orderedArt": false,
+    "autoUpdate": false,
+    "frequency": 0.001,
+    "emitterLifetime": 0.1,
+    "maxParticles": 50,
+    "spawnType": "burst",
+    "extraData": "",
+    "particlesPerWave": 0,
+    "particleSpacing": 0,
+    "angleStart": 0
+}
